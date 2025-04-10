@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "age": 30,
+            "city": "Edmonton"
+        },
+        {
+            "name": "Bob",
+            "age": 25,
+            "city": "Los Red Deer"
+        },
+        {
+            "name": "Charlie",
+            "age": 22,
+            "city": "Chicagary"
+        }
+    ]
+}
